@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>markdown - 标签 - Mplan&#39;s blog</title>
+        <link>http://example.org/tags/markdown/</link>
+        <description>markdown - 标签 - Mplan&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>mplan_@outlook.com (Mplan)</managingEditor>
+            <webMaster>mplan_@outlook.com (Mplan)</webMaster><lastBuildDate>Sun, 15 Aug 2021 12:20:21 &#43;0800</lastBuildDate><atom:link href="http://example.org/tags/markdown/" rel="self" type="application/rss+xml" /><item>
+    <title>Markdown测试</title>
+    <link>http://example.org/posts/markdown%E6%B5%8B%E8%AF%95/</link>
+    <pubDate>Sun, 15 Aug 2021 12:20:21 &#43;0800</pubDate><author>
+        <name>Mplan</name>
+    </author><guid>http://example.org/posts/markdown%E6%B5%8B%E8%AF%95/</guid>
+    <description><![CDATA[这是用来测试markdown是否正常的]]></description>
+</item></channel>
+</rss>
