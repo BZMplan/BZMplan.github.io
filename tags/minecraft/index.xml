@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Minecraft - 标签 - Mplan&#39;s blog</title>
+        <link>http://mplan.site/tags/minecraft/</link>
+        <description>Minecraft - 标签 - Mplan&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>mplan_@outlook.com (Mplan)</managingEditor>
+            <webMaster>mplan_@outlook.com (Mplan)</webMaster><lastBuildDate>Mon, 16 Aug 2021 11:01:49 &#43;0800</lastBuildDate><atom:link href="http://mplan.site/tags/minecraft/" rel="self" type="application/rss+xml" /><item>
+    <title>Minecraft基岩版服务器搭建</title>
+    <link>http://mplan.site/posts/minecraft%E5%9F%BA%E5%B2%A9%E7%89%88%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA/</link>
+    <pubDate>Mon, 16 Aug 2021 11:01:49 &#43;0800</pubDate><author>
+        <name>Mplan</name>
+    </author><guid>http://mplan.site/posts/minecraft%E5%9F%BA%E5%B2%A9%E7%89%88%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA/</guid>
+    <description><![CDATA[Minecraft 基岩版服务器搭建（windows）]]></description>
+</item></channel>
+</rss>
